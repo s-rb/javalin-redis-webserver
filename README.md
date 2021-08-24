@@ -1,5 +1,7 @@
 ##  Простое Web-приложение по квалификационному заданию FunBox для разработчиков Java/Kotlin
 
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518) ![Javalin](https://img.shields.io/badge/-Javalin-05122A?style=flat&logo=Javalin) ![WebService](https://img.shields.io/badge/-WebService-05122A?style=flat) ![Guice](https://img.shields.io/badge/-Guice-05122A?style=flat&logo=guice) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=yellow) ![JUnit](https://img.shields.io/badge/-JUnit-05122A?style=flat&logo=JUnit) ![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apachemaven&logoColor=fffffb) ![REST](https://img.shields.io/badge/-REST-05122A?style=flat)
+
 #### Функции:
 Простой учет посещенных ссылок (получение и возврат по запросу).
 Приложение предоставляет JSON API по HTTP. 
